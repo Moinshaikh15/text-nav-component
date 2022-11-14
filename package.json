@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "streamlit-component-lib-react-hooks": "^1.0.3"
+  }
+}
